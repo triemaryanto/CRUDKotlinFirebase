@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VERIVIKATOR</string>
+    <string name="periksa_lapangan">PERIKSA LAPANGAN</string>
+    <string name="save">Save</string>
+    <string name="string_save" />
+    <string name="selected_item">Selected item:</string>
+
+
+    <string name="text_error">Error</string>
+    <string name="text_success">Success</string>
+    <string name="text_ok">OK</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="text_yes">Simpan Saja</string>
+    <string name="text_temuan">Ada Temuan ?</string>
+
+</resources>
